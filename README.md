@@ -1,5 +1,7 @@
 # E-Commerce Platform
 
+**🌐 Live Demo:** [https://6ac773f44b232ba25f87c5c4--smart-shop2.netlify.app/](https://6ac773f44b232ba25f87c5c4--smart-shop2.netlify.app/)
+
 A full-stack, responsive e-commerce web application built with the MERN stack (MongoDB, Express, React, Node.js) and modern web technologies. This project features secure authentication, state management, payment processing with Stripe, and real-time session handling with Redis.
 
 ## 🤔 Why This Platform?
