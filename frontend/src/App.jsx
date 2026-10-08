@@ -4,7 +4,7 @@ import Navbar from "./components/Navbar.jsx";
 import HomePage from "./pages/HomePage.jsx";
 
 import { SignupPage } from "./pages/SignupPage.jsx";
-import LoginPage from "./pages/LoginPage.jsx";
+import LoginPage from "./pages/Loginpage.jsx";
 import ProductPage from "./pages/Productpage.jsx"; // ✅ fixed casing
 import ProfilePage from "./pages/ProfilePage.jsx";
 import CartPage from "./pages/CartPage.jsx";
